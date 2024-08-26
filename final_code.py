@@ -157,7 +157,7 @@ while True:
         print("mode change")
         if flag == "key":
             cap.set(3, 640)
-            cap.set(4, 480)
+            cap.set(4, 480) #change if needed
             flag = "mouse"
         elif flag == "mouse":
             cap.set(3, 1280)
