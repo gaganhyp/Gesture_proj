@@ -43,8 +43,16 @@ while True:
 
     lmList, bbox = detector.findPosition(img)
 
-    # Flip the image(frame)
-    
+    # Flip the image(frames
+  '''  hdejdjd
+jdhdjdjd
+dhdjdd
+hdhdhd
+dhdhdhd888dhdid
+jdhdhd
+dhdhhd
+dhdhdhd
+dhdddh'''
 
     #img = cv2.flip(img, 1)
 
